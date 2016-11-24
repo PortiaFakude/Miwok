@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="one">kunye</string>
+    <string name="two">kubili</string>
+    <string name="three">kutsatfu</string>
+    <string name="four">kune</string>
+    <string name="five">kusihlanu</string>
+    <string name="six">kusitfupha</string>
+    <string name="seven">kusikhombisa</string>
+    <string name="eight">kusiphohlongo</string>
+    <string name="nine">kuyimfica</string>
+    <string name="ten">kulishumi</string>
+    <string name="mother">make</string>
+    <string name="father">babe</string>
+    <string name="grandmother">gogo</string>
+    <string name="grandfather">mkhulu</string>
+    <string name="older_brother">bhuti lomdzala</string>
+    <string name="older_sister">sesi lomdzala</string>
+    <string name="red">bovú</string>
+    <string name="son">indodzana</string>
+    <string name="dusty_yellow">oqanda</string>
+    <string name="mustard_yellow">oqanda</string>
+    <string name="black">omnyama</string>
+    <string name="gray">ompunga</string>
+    <string name="green">oluhlaza sasibhakabhaka</string>
+    <string name="white">omhlophe</string>
+    <string name="daughter">dzadze</string>
+    <string name="younger_brother">dzádze</string>
+    <string name="younger_sister">dzádze</string>
+    <string name="brown">onsundu</string>
+    <string name="name1">Ligama lam ngu...</string>
+    <string name="go">Asambe</string>
+    <string name="good">Ngitiva mnandzi</string>
+    <string name="going">Uyaphi?</string>
+    <string name="come">Buya la</string>
+    <string name="coming1">Ngiyeta</string>
+    <string name="coming">Yebo ngiyeta</string>
+    <string name="coming2">Uyeta na?</string>
+    <string name="category_members"></string>
+    <string name="feeling">U tiva njani?</string>
+    <string name="name">Ungubani ligama lakho</string>
+</resources>
